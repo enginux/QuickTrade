@@ -47,6 +47,9 @@ QuickTrade is an all‑in‑one trading assistant for MT5. The tool replaces cha
 | `InpSlippage` | Maximum slippage in points (10 = 1 pip for 5‑digit brokers). |
 | `InpSound` | Enable/disable sounds on order execution / failure. |
 | `InpLineWidth` | Thickness of the draggable Entry/SL/TP lines. |
+| `InpEntryColor` | Color of Entry trend line. |
+| `InpSLColor` | Color of Stop Loss trend line. |
+| `InpTPColor` | Color of Take Profit trend line. |
 | `InpTrailingPointsDist` | Distance (points) from price to trail the stop loss. |
 | `InpConsistencyTarget` | Maximum allowed % of daily P&L from a single trade (default 20%). Exceeding this marks “(F)” in metrics. |
 
