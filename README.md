@@ -110,14 +110,14 @@ This is where you plan every trade **before** execution.
 | **TP Points** | Same for take profit. |
 | **RR Ratio** | Desired reward‑to‑risk (e.g., 2.0 means TP is twice the SL distance). Used by the **AUTO TP** button. |
 
-**Three ways to set prices:**\
-1. **Type numbers** directly into the edit fields.\
-2. **Points + Auto calculation** – enter SL/TP points and the price will be computed automatically.\
+**Three ways to set prices:**
+1. **Type numbers** directly into the edit fields.
+2. **Points + Auto calculation** – enter SL/TP points and the price will be computed automatically.
 3. **Chart‑click mode** – click any edit field (Entry, SL, or TP) to activate “waiting” mode, then click anywhere on the chart to set that price.
 
 ### 3. 🧮 Risk Management Buttons
 
-- **CALCULATE** – reads your Entry, Stop Loss, and risk settings, then computes the exact lot size that keeps your risk constant.\
+- **CALCULATE** – reads your Entry, Stop Loss, and risk settings, then computes the exact lot size that keeps your risk constant.
   ***This is the most important button. Always use it!***
 - **RESET** – clears all trade settings back to default values.
 - **AUTO TP** – uses your current SL distance and the RR ratio to automatically set a Take Profit level.
