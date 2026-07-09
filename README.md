@@ -1,7 +1,7 @@
 # 📘 QuickTrade – A Professional MT5 Trading Dashboard for Windows
-![QuickTrade Screenshot](quicktrade_image.png)
+![QuickTrade Screenshot](quicktrade_imageV14.png)
 
-**Version 1.1** – *Discipline, precision, and real‑time performance at your fingertips.*
+**Version 1.4** – *Discipline, precision, and real‑time performance at your fingertips.*
 
 QuickTrade is an all‑in‑one MetaTrader 5 tooling that merges **trade execution**, **automated risk management**, and **performance tracking** into a single, visual panel. It enforces a strict pre‑trade workflow and gives you live feedback on your trading behavior – so you trade your plan, not your emotions.
 
@@ -17,6 +17,13 @@ QuickTrade is an all‑in‑one MetaTrader 5 tooling that merges **trade executi
 - **Theme refresh** – Gold, Dark, and Silver themes with button hover effects.
 - **Enhanced consistency score** – includes count of winning trades and a (P)ass / (F)ail flag.
 - **Multi‑account safe** – metrics are stored per account + symbol, surviving restarts and account switches.
+
+## 🚀 What’s New in 1.4
+
+- **Indicators** – Add your favorite custom indicator(s) based on your preference
+- **Account types** – Compatible with both standard and cent accounts
+- **Screen resolution detection** – Automatic panel resizing for smaller screen resolutions
+- **One chart multi-timeframe** – Multi-timeframe candlestick display with countdown timer
 
 ------------------------------------------------------------------------
 
